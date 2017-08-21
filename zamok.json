@@ -1,0 +1,6 @@
+{
+  "redirect": [{
+    "from": "chrome://pdf-viewer/elements/viewer-pdf-toolbar/viewer-pdf-toolbar.html",
+    "to": "../pdf-viewer/elements/viewer-pdf-toolbar/viewer-pdf-toolbar.html"
+  }]
+}
